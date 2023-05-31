@@ -51,7 +51,7 @@ SMA индикатор неспроста является таким попул
 
 Формула индикатора:
 
-![Image alt](https://github.com/LRKZZ/technical-indicators/blob/main/technical%20indicators/tech_pictures/SMA_indicator.jpg
+![Image alt](https://github.com/LRKZZ/technical-indicators/blob/main/technical%20indicators/tech_pictures/ССI_pic.jpg)
 
 У него (индикатора) есть зона перекупленности, расположенная выше 100, и зона перепроданности, которая находится под отметкой -100.
 
