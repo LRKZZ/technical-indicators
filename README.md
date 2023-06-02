@@ -98,3 +98,15 @@ ROC - это индикатор в техническом анализе, кот
 Как это выглядит на графике:
 
 ![Image alt](https://github.com/LRKZZ/technical-indicators/blob/main/technical%20indicators/tech_pictures/EMV_pic.jpg)
+
+# EMA-индикатор
+
+Экспоненциальная скользящая средняя (англ. Exponential Moving Average, или EMA) — это продвинутая версия простой скользящей средней. При расчёте среднего значения за день она придаёт больший вес последним данным. Благодаря этому старые и ненужные значения оказывают на индикатор EMA меньше влияния, чем последние, более актуальные данные. Напротив, при расчёте простого среднего все числа имеют один и тот же вес.
+
+Формула индикатора:
+
+![Image alt](https://github.com/LRKZZ/technical-indicators/blob/main/technical%20indicators/tech_pictures/EMA_fpic.jpg)
+
+Как это выглядит на графике:
+
+![Image alt](https://github.com/LRKZZ/technical-indicators/blob/main/technical%20indicators/tech_pictures/EMA_pic.jpg)
